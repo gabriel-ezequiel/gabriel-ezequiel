@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg" width="100%"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&center=true&pause=500&multiline=true&repeat=false&random=false&width=320&height=55&lines=Let+me+introduce+myself;My+name's+Gabriel+Ezequiel" alt="Typing SVG" width="100%" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&center=true&pause=500&multiline=true&repeat=false&random=false&width=320&height=55&lines=Let+me+introduce+myself;My+name's+Gabriel+Ezequiel" alt="Typing SVG" width="100%" />
 
 A software development enthusiast passionate about unraveling simple and effective solutions for the most complex challenges. With my background in Computer Science from PUC-PR and experience in software development, I'm ready to make substantial contributions to challenging projects. My focus is on constantly seeking efficiency and simplicity, adhering to the best principles of software development and engineering. Additionally, I'm familiar with Agile methodologies, ensuring fast and high-quality deliveries.
 
@@ -113,10 +113,11 @@ Tenho interesse e aprecio todos os campos de Desenvolvedor de Software, porém t
   />
   <img src="https://github-readme-stats.vercel.app/api?username=gabriel-ezequiel&show_icons=true" />
 </picture>
-
 <!-- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gabriel-ezequiel&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/gabriel-ezequiel/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gabriel-ezequiel&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/gabriel-ezequiel/github-readme-stats#gh-light-mode-only) -->
+</div>
 
+<div align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ezequiel&hide_progress=true&theme=dark"

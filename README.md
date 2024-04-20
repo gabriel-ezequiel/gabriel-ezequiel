@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&center=true&pause=500&multiline=true&repeat=false&random=false&width=320&height=55&lines=Let+me+introduce+myself;My+name's+Gabriel+Ezequiel" alt="Typing SVG" width="100%" /></a>
+<a href="https://git.io/typing-svg" width="100%"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&center=true&pause=500&multiline=true&repeat=false&random=false&width=320&height=55&lines=Let+me+introduce+myself;My+name's+Gabriel+Ezequiel" alt="Typing SVG" width="100%" /></a>
 
 A software development enthusiast passionate about unraveling simple and effective solutions for the most complex challenges. With my background in Computer Science from PUC-PR and experience in software development, I'm ready to make substantial contributions to challenging projects. My focus is on constantly seeking efficiency and simplicity, adhering to the best principles of software development and engineering. Additionally, I'm familiar with Agile methodologies, ensuring fast and high-quality deliveries.
 
@@ -63,48 +63,72 @@ Tenho interesse e aprecio todos os campos de Desenvolvedor de Software, porém t
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-de-castro-ezequie/)
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/teste/) -->
 
+
+
+<h2 align="center">My Stack</h2>
 <div align="center">
+<a href="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript" alt="JavaScript" /></a>
+<a href="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></a>
+<a href="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></a>
+<a href="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /></a>
+<a href="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"><img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" /></a>
+<a href="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
+<a href="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+<a href="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"><img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+<a href="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
+<a href="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
+<a href="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+<a href="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+<a href="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+<a href="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"><img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
+<a href="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+<a href="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" /></a>
+<a href="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+<a href="https://img.shields.io/badge/VSCode-0078D6?style=for-the-badge&logo=visual-studio-code&logoColor=white"><img src="https://img.shields.io/badge/VSCode-0078D6?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" /></a>
+<a href="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /></a>
+<a href="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab" /></a>
+<a href="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" /></a>
+<a href="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+<a href="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"><img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="Rust" /></a>
+<a href="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white"><img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" alt="Clojure" /></a>
+<a href="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" /></a>
+<a href="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"><img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark" /></a>
+<a href="https://img.shields.io/badge/Apache_Hadoop-FF6525?style=for-the-badge&logo=apache-hadoop&logoColor=white"><img src="https://img.shields.io/badge/Apache_Hadoop-FF6525?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="Hadoop" /></a>
+<a href="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"><img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" /></a>
+<a href="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C-sharp" /></a>
+<a href="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /></a>
+</div>
 
+<h2 align="center">GitHub Stats</h2>
 
-## My Stack
+<div align="center">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gabriel-ezequiel&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gabriel-ezequiel&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-ezequiel&show_icons=true" />
+</picture>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-0078D6?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
-![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Apache_Hadoop-FF6525?style=for-the-badge&logo=apache-hadoop&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![C-sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+<!-- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gabriel-ezequiel&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/gabriel-ezequiel/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gabriel-ezequiel&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/gabriel-ezequiel/github-readme-stats#gh-light-mode-only) -->
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ezequiel&hide_progress=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ezequiel&hide_progress=true&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ezequiel&hide_progress=true&theme=default" />
+</picture>
 
-## GitHub Stats
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gabriel-ezequiel&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/gabriel-ezequiel/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gabriel-ezequiel&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/gabriel-ezequiel/github-readme-stats#gh-light-mode-only)
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ezequiel&hide_progress=true&theme=dark#gh-dark-mode-only)](https://github.com/gabriel-ezequiel/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ezequiel&hide_progress=true&theme=default#gh-light-mode-only)](https://github.com/gabriel-ezequiel/github-readme-stats#gh-light-mode-only)
+<!-- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ezequiel&hide_progress=true&theme=dark#gh-dark-mode-only)](https://github.com/gabriel-ezequiel/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ezequiel&hide_progress=true&theme=default#gh-light-mode-only)](https://github.com/gabriel-ezequiel/github-readme-stats#gh-light-mode-only) -->
 </div>
